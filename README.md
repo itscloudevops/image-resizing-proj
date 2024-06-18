@@ -12,4 +12,4 @@ This project focuses on building an automated system for image processing and ma
 
 ## Overview :
 
-![a1](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/d806e90a-365e-4f59-a6ac-2606c74b79e3)
+![266819266-d806e90a-365e-4f59-a6ac-2606c74b79e3](https://github.com/itscloudevops/image-resizing-proj/assets/172890207/3bda0aa9-e855-4238-9e76-185fe0f2a832)
