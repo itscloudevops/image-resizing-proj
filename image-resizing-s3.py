@@ -1,6 +1,6 @@
 import os
 import boto3
-from PIL import Image
+from PIL import Imagee
 from io import BytesIO
 
 # Initialize AWS clients
