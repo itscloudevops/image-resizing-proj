@@ -17,3 +17,10 @@ Key AWS services, such as 👇👇
 ## Overview :
 
 ![266819266-d806e90a-365e-4f59-a6ac-2606c74b79e3](https://github.com/itscloudevops/image-resizing-proj/assets/172890207/3bda0aa9-e855-4238-9e76-185fe0f2a832)
+
+
+step 1 :- create two buckets
+
+step 2 :-  create the sns notification
+
+step 3 :-  create lambda function
