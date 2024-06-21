@@ -31,7 +31,7 @@ step 5 :- goto lambda and apply policy
 
 step 6 :-  add trigger
 
-step 7 :- add layer  ( use this arn only for mumbai region )
+step 7 :- add layer  ( use this arn only for mumbai region ) 👇
 
 ```sh
 arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
