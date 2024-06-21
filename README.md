@@ -38,4 +38,6 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 
 ```
 
+step 8 :- upload image and check
 
+======================================== END=================================================
