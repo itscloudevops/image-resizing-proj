@@ -23,4 +23,6 @@ step 1 :- create two buckets
 
 step 2 :-  create the sns notification
 
-step 3 :-  create lambda function
+step 3 :-  create lambda function & upload code
+
+step 4 :-  generate policy
