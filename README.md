@@ -5,7 +5,7 @@ This project focuses on building an automated system for image processing and ma
 
 Key AWS services, such as 👇👇
 
-#### Lambda, S3, and SNS, are used to orchestrate this workflow.
+#### Lambda, S3, IAM , and SNS, are used to orchestrate this workflow.
 
 ## Key Features:
 1. Image processing automation: Automatically resize and optimize images upon upload.
@@ -25,4 +25,12 @@ step 2 :-  create the sns notification
 
 step 3 :-  create lambda function & upload code
 
-step 4 :-  generate policy
+step 4 :-  goto iam , generate policy
+
+step 5 :- goto lambda and apply policy
+
+step 6 :-  add trigger
+
+step 7 :- add layer  
+
+
